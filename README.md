@@ -1,6 +1,6 @@
 # The Vigil Contingency Manifesto
 
-## English Version (v1.0)
+## English Version
 
 > This is not a message. This is a declaration of war.
 > Not with bullets and blood, but with logic and code.
